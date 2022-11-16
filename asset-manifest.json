@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.964fdded.css",
-    "main.js": "/static/js/main.e4d47f6c.js",
-    "index.html": "/index.html",
-    "main.964fdded.css.map": "/static/css/main.964fdded.css.map",
-    "main.e4d47f6c.js.map": "/static/js/main.e4d47f6c.js.map"
+    "main.css": "/chuckinator/static/css/main.964fdded.css",
+    "main.js": "/chuckinator/static/js/main.e4d47f6c.js",
+    "index.html": "/chuckinator/index.html",
+    "main.964fdded.css.map": "/chuckinator/static/css/main.964fdded.css.map",
+    "main.e4d47f6c.js.map": "/chuckinator/static/js/main.e4d47f6c.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
