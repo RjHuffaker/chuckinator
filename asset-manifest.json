@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chuckinator/static/css/main.964fdded.css",
-    "main.js": "/chuckinator/static/js/main.e4d47f6c.js",
+    "main.js": "/chuckinator/static/js/main.58a5ac79.js",
     "index.html": "/chuckinator/index.html",
     "main.964fdded.css.map": "/chuckinator/static/css/main.964fdded.css.map",
-    "main.e4d47f6c.js.map": "/chuckinator/static/js/main.e4d47f6c.js.map"
+    "main.58a5ac79.js.map": "/chuckinator/static/js/main.58a5ac79.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.e4d47f6c.js"
+    "static/js/main.58a5ac79.js"
   ]
 }
