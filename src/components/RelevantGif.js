@@ -7,7 +7,6 @@ const RelevantGif = ({gifNumber}) => {
 
 	return (
 		<div>
-			<p>{gifUrl}</p>
 			<img alt='ChuckNorris' src={gifUrl} />
 		</div>
 	)
