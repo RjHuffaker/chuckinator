@@ -1,6 +1,6 @@
 {
   "name": "chuckinator",
-  "homepage": "https://RjHuffaker.github.io/chuckinator",  
+  "homepage": "https://RjHuffaker.github.io/chuckinator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

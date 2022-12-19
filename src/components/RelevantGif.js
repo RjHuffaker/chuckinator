@@ -6,9 +6,7 @@ const RelevantGif = ({gifNumber}) => {
 	const gifUrl = gifList[gifNumber];
 
 	return (
-		<div>
-			<img alt='ChuckNorris' src={gifUrl} />
-		</div>
+		<img style={{minWidth: '600px'}} alt='ChuckNorris' src={gifUrl} />
 	)
 }
 

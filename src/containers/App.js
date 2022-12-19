@@ -31,12 +31,14 @@ class App extends Component {
   render(){
     const { fact, gifNumber } = this.state;
     return (
-      <div>
-        <h1>CHUCKINATOR!</h1>
-        <h2>The definitive source of Chuck Norris facts</h2>
-        <p>{fact}</p>
-        <FactButton fetchFact={this.fetchFact} />
-        <RelevantGif gifNumber={gifNumber} />
+      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
+        <div style={{alignItems:'center', 'width':'600px'}}>
+          <h1 style={{textAlign:'center'}}>CHUCKINATOR!</h1>
+          <h2 style={{textAlign:'center'}}>The definitive source of all Chuck Norris facts</h2>
+          <p style={{textAlign:'center', fontSize:"24px"}}>{fact}</p>
+          <FactButton fetchFact={this.fetchFact} />
+          <RelevantGif gifNumber={gifNumber} />
+        </div>
       </div>
     )
   }
